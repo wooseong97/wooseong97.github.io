@@ -24,11 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate in Mechanical Engineering at the Korea Advanced Institute of Science and Technology (KAIST), advised by Prof. Kuk-Jin Yoon. My research centers on parameter-efficient learning and model merging (LoRA/PEFT, conflict-aware weight composition, preference-aligned merging), multi-task learning and scalable optimization, and test-time adaptation for robust learning under distribution shift, with applications to autonomous driving and robotics.
+I am a Ph.D. candidate at KAIST whose research focuses on efficient adaptation and merging of deep learning models. My work aims to develop robust, deployment-oriented AI systems that can adapt across tasks, domains, and scenarios, with applications in autonomous driving, robotics, and embodied AI.
 
-My goal is to develop robust and efficient deep learning models that can understand and interact with the complex world. I am passionate about designing novel architectures and optimization techniques to push the boundaries of what's possible in AI.
-
-Please feel free to browse my publications and projects. For collaborations or any questions, don't hesitate to get in touch.
+Please feel free to browse my publications. For collaborations or any questions, don't hesitate to get in touch.
 
 <div class="social-buttons" style="display: flex; align-items: center; gap: 20px; margin-top: 1rem; margin-bottom: 1rem;">
   <a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" title="Download CV" style="font-size: 1.5rem;">
