@@ -26,7 +26,7 @@ latest_posts:
 
 I am a Ph.D. candidate at KAIST whose research focuses on efficient adaptation and merging of deep learning models. My work aims to develop robust, deployment-oriented AI systems that can adapt across tasks, domains, and scenarios, with applications in autonomous driving, robotics, and embodied AI.
 
-Please feel free to browse my publications. For collaborations or any questions, don't hesitate to get in touch.
+Feel free to explore my publications, and reach out if you'd like to collaborate or have any questions.
 
 <div class="social-buttons" style="display: flex; align-items: center; gap: 20px; margin-top: 1rem; margin-bottom: 1rem;">
   <a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" title="Download CV" style="font-size: 1.5rem;">
