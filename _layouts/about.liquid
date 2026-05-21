@@ -40,13 +40,11 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- Selected Publications -->
-    {% if page.selected_papers %}
-      <h2><span class="text-info">Selected Publications</span></h2>
-      <div class="publications">
-        {% bibliography --query @*[selected=true] %}
-      </div>
-    {% endif %}
+    <!-- Publications -->
+    <h2><span class="text-info">Publications</span></h2>
+    <div class="publications">
+      {% bibliography %}
+    </div>
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}

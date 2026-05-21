@@ -39,3 +39,10 @@ Feel free to explore my publications, and reach out if you'd like to collaborate
     <i class="fab fa-github"></i> GitHub
   </a>
 </div>
+
+## <span class="text-info">Research Interests</span>
+
+- **Parameter-Efficient Learning & Model Merging** — LoRA/PEFT, conflict-aware weight composition, preference-aligned merging
+- **Multi-Task Learning & Scalable Optimization** — task interaction, Pareto optimization, preference-based multi-objective learning
+- **Test-Time Adaptation & Robust Learning** under distribution shift
+- **Autonomous Driving & Robotics** — motion planning, vision-language-action (VLA) models, robust autonomy
