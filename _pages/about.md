@@ -6,7 +6,7 @@ subtitle: Ph.D. Candidate at <a href='https://www.kaist.ac.kr/'>KAIST</a>. <a hr
 
 profile:
   align: right
-  image: # add your photo filename here later (place file in assets/img/)
+  image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
