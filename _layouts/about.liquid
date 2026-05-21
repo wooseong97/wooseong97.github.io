@@ -40,39 +40,11 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
-    <!-- Announcements -->
-    {% assign announcements = site.news | where: "category", "announcement" | reverse %}
-    {% if announcements.size > 0 %}
-      <h2><span class="text-info">Announcements</span></h2>
-      <div class="news">
-        <div class="table-responsive">
-          <table class="table table-sm table-borderless">
-            {% for item in announcements %}
-              <tr>
-                <th scope="row">{{ item.date | date: '%b %-d, %Y' }}</th>
-                <td>{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</td>
-              </tr>
-            {% endfor %}
-          </table>
-        </div>
-      </div>
-    {% endif %}
-
-    <!-- Recent Publications -->
-    {% assign publications = site.news | where: "category", "publication" | reverse %}
-    {% if publications.size > 0 %}
-      <h2><span class="text-info">Recent Publications</span></h2>
-      <div class="news">
-        <div class="table-responsive">
-          <table class="table table-sm table-borderless">
-            {% for item in publications %}
-              <tr>
-                <th scope="row">{{ item.date | date: '%b %-d, %Y' }}</th>
-                <td>{{ item.content | remove: '<p>' | remove: '</p>' | emojify }}</td>
-              </tr>
-            {% endfor %}
-          </table>
-        </div>
+    <!-- Selected Publications -->
+    {% if page.selected_papers %}
+      <h2><span class="text-info">Selected Publications</span></h2>
+      <div class="publications">
+        {% bibliography --query @*[selected=true] %}
       </div>
     {% endif %}
 
