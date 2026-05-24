@@ -38,6 +38,9 @@ Feel free to explore my publications, and reach out if you'd like to collaborate
   <a href="https://github.com/wooseong97" target="_blank" rel="noopener noreferrer" title="GitHub" style="font-size: 1.5rem;">
     <i class="fab fa-github"></i> GitHub
   </a>
+  <a href="https://www.linkedin.com/in/wooseongjeong" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="font-size: 1.5rem;">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
 </div>
 
 ## <span class="text-info">Research Interests</span>
