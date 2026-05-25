@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Candidate at <a href='https://www.kaist.ac.kr/'>KAIST</a>. <a href='mailto:stk14570@kaist.ac.kr'>stk14570@kaist.ac.kr</a>
+subtitle: Ph.D. Candidate at <a href='https://www.kaist.ac.kr/'>KAIST</a>, advised by Prof. Kuk-Jin Yoon at the <a href='https://vi.kaist.ac.kr'>Visual Intelligence Lab (VILAB)</a>. <a href='mailto:stk14570@kaist.ac.kr'>stk14570@kaist.ac.kr</a>
 
 profile:
   align: right
