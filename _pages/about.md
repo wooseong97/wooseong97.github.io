@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <i class="fas fa-envelope"></i> <a href="mailto:stk14570@kaist.ac.kr">stk14570@kaist.ac.kr</a>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,9 +30,6 @@ I am a Ph.D. candidate at KAIST whose research focuses on efficient adaptation a
 Feel free to explore my publications, and reach out if you'd like to collaborate or have any questions.
 
 <div class="social-buttons" style="display: flex; align-items: center; gap: 20px; margin-top: 1rem; margin-bottom: 1rem;">
-  <a href="mailto:stk14570@kaist.ac.kr" title="Email" style="font-size: 1.5rem;">
-    <i class="fas fa-envelope"></i> Email
-  </a>
   <a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" title="Download CV" style="font-size: 1.5rem;">
     <i class="ai ai-cv"></i> Download CV
   </a>
