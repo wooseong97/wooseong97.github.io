@@ -29,17 +29,24 @@ I am a Ph.D. candidate at KAIST whose research focuses on efficient adaptation a
 
 Feel free to explore my publications, and reach out if you'd like to collaborate or have any questions.
 
-<div class="social-buttons" style="display: flex; align-items: center; gap: 20px; margin-top: 1rem; margin-bottom: 1rem;">
-  <a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" title="Download CV" style="font-size: 1.5rem;">
+<style>
+.social-buttons a { font-size: 1.5rem; }
+@media (max-width: 576px) {
+  .social-buttons a { font-size: 1.05rem; }
+}
+</style>
+
+<div class="social-buttons" style="display: flex; flex-wrap: wrap; align-items: center; gap: 12px 20px; margin-top: 1rem; margin-bottom: 1rem;">
+  <a href="/assets/pdf/CV.pdf" target="_blank" rel="noopener noreferrer" title="Download CV">
     <i class="ai ai-cv"></i> Download CV
   </a>
-  <a href="https://scholar.google.com/citations?user=o3eMeC8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar" style="font-size: 1.5rem;">
+  <a href="https://scholar.google.com/citations?user=o3eMeC8AAAAJ&hl=en" target="_blank" rel="noopener noreferrer" title="Google Scholar">
     <i class="ai ai-google-scholar"></i> Google Scholar
   </a>
-  <a href="https://github.com/wooseong97" target="_blank" rel="noopener noreferrer" title="GitHub" style="font-size: 1.5rem;">
+  <a href="https://github.com/wooseong97" target="_blank" rel="noopener noreferrer" title="GitHub">
     <i class="fab fa-github"></i> GitHub
   </a>
-  <a href="https://www.linkedin.com/in/wooseongjeong" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="font-size: 1.5rem;">
+  <a href="https://www.linkedin.com/in/wooseongjeong" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <i class="fab fa-linkedin"></i> LinkedIn
   </a>
 </div>
