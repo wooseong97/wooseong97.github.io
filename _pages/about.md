@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate at KAIST whose research focuses on efficient adaptation and merging of deep learning models. My work aims to develop robust, deployment-oriented AI systems that can adapt across tasks, domains, and scenarios, with applications in autonomous driving, robotics, and embodied AI.
+I am a Ph.D. candidate at KAIST working on efficient adaptation and merging of deep learning models. My research focuses on multi-task optimization, test-time adaptation, and LoRA/model merging to build robust AI systems that generalize across tasks, domains, and deployment scenarios.
 
 Feel free to explore my publications, and reach out if you'd like to collaborate or have any questions.
 
