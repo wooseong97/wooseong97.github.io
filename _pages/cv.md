@@ -7,6 +7,8 @@ nav_order: 2
 display_title: false
 ---
 
+[Download the complete CV (PDF)](/assets/pdf/CV.pdf)
+
 ## <span class="text-info">Education</span>
 - **Ph.D. Candidate in Mechanical Engineering** (Mar. 2023 - Aug. 2027, Expected)
   - _Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea_

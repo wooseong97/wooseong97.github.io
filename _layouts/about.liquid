@@ -41,7 +41,12 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- Publications -->
-    <h2><span class="text-info">Publications</span></h2>
+    <h2><span class="text-info">Manuscripts Under Review</span></h2>
+    <div class="publications">
+      {% bibliography --file under_review --group_by none %}
+    </div>
+
+    <h2><span class="text-info">Accepted Publications</span></h2>
     <div class="publications">
       {% bibliography %}
     </div>
