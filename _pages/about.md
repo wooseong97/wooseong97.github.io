@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate at KAIST working on efficient adaptation and merging of deep learning models. My research focuses on multi-task optimization, test-time adaptation, and LoRA/model merging to build robust AI systems that generalize across tasks, domains, and deployment scenarios.
+I am a Ph.D. candidate at KAIST working on foundation model optimization and adaptation, with applications to embodied intelligence. My research spans multi-task and non-convex optimization, parameter-efficient adaptation, model merging, and knowledge distillation. I also study test-time adaptation, in-context learning, and vision-language-action models for robust autonomous systems.
 
 Feel free to explore my publications, and reach out if you'd like to collaborate or have any questions.
 
@@ -53,7 +53,10 @@ Feel free to explore my publications, and reach out if you'd like to collaborate
 
 ## <span class="text-info">Research Interests</span>
 
-- **Parameter-Efficient Learning & Model Merging** — LoRA/PEFT, conflict-aware weight composition, preference-aligned merging
-- **Multi-Task Learning & Scalable Optimization** — task interaction, Pareto optimization, preference-based multi-objective learning
-- **Test-Time Adaptation & Robust Learning** under distribution shift
-- **Autonomous Driving & Robotics** — motion planning, vision-language-action (VLA) models, robust autonomy
+- **Foundation Model Optimization and Adaptation**
+  - Multi-task, multi-objective, and non-convex optimization
+  - Parameter-efficient adaptation, model merging, and knowledge distillation (including on-policy distillation)
+  - Test-time adaptation and in-context learning
+- **Embodied Intelligence**
+  - Vision-language-action models and uncertainty-guided reasoning
+  - Robust perception and motion planning for autonomous systems

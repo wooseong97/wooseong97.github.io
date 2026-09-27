@@ -23,19 +23,14 @@ display_title: false
 ---
 
 ## <span class="text-info">Research Interests</span>
-- **Parameter-Efficient Learning and Model Merging:**
-  - LoRA / PEFT
-  - Conflict-aware weight composition
-  - Preference-aligned merging
-- **Multi-Task Learning and Scalable Optimization:**
-  - Task interaction
-  - Pareto optimization
-  - Preference-based multi-objective learning
-- **Test-Time Adaptation and Robust Learning under Distribution Shift**
-- **Autonomous Driving and Robotics:**
-  - Motion planning
-  - Vision-language-action (VLA) models
-  - Robust autonomy
+
+- **Foundation Model Optimization and Adaptation**
+  - Multi-task, multi-objective, and non-convex optimization
+  - Parameter-efficient adaptation, model merging, and knowledge distillation (including on-policy distillation)
+  - Test-time adaptation and in-context learning
+- **Embodied Intelligence**
+  - Vision-language-action models and uncertainty-guided reasoning
+  - Robust perception and motion planning for autonomous systems
 
 ---
 
