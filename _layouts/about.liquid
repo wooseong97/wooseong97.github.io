@@ -41,9 +41,11 @@ layout: default
     <div class="clearfix">{{ content }}</div>
 
     <!-- Publications -->
-    <h2><span class="text-info">Accepted Publications</span></h2>
+    <h2><span class="text-info">Recent Publications</span></h2>
     <div class="publications">
-      {% bibliography %}
+      {% assign publication_year = site.time | date: '%Y' %}
+      {% capture recent_publications_query %}@*[year>={{ publication_year | minus: 2 }} && year<={{ publication_year }}]{% endcapture %}
+      {% bibliography --query {{recent_publications_query}} %}
     </div>
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
