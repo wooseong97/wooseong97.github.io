@@ -25,7 +25,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Ph.D. candidate at KAIST working on foundation model optimization and adaptation, with applications to embodied intelligence. My research spans multi-task and non-convex optimization, parameter-efficient adaptation, model merging, and knowledge distillation. I also study test-time adaptation, in-context learning, and vision-language-action models for robust autonomous systems.
+I am a Ph.D. candidate at KAIST working on foundation model optimization and adaptation, with applications to embodied intelligence. My research focuses on multi-task optimization, model merging, and test-time adaptation, and I am currently extending this work to vision-language-action models.
 
 Feel free to explore my publications, and reach out if you'd like to collaborate or have any questions.
 
