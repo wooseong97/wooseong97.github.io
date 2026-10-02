@@ -61,6 +61,6 @@ Feel free to explore my publications, and reach out if you'd like to collaborate
   - Vision-language-action models and uncertainty-guided reasoning
   - Robust perception and motion planning for autonomous systems
 
-## <span class="text-info">Honors & Awards</span>
+## <span class="text-info">Honors and Awards</span>
 
 - **[Qualcomm Innovation Fellowship Korea 2025](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-south-korea)**, Finalist — Interaction-Merged Motion Planning (ICCV 2025 Highlight)
