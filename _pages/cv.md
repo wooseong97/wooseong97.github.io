@@ -14,12 +14,14 @@ display_title: false
 - **Ph.D. Candidate in Mechanical Engineering** (Mar. 2023 - Feb. 2028, Expected)
   - _Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea_
   - Advisor: Kuk-Jin Yoon
-- **M.S. in Mechanical Engineering** (Mar. 2021 - Feb. 2023)
+  - GPA: 3.81/4.3
+- **M.S. in Mechanical Engineering** (Sep. 2021 - Feb. 2023)
   - _Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea_
   - Advisor: Kuk-Jin Yoon
+  - GPA: 4.10/4.3
 - **B.S. in Mechanical Engineering and Electrical Engineering (Double Major)** (Mar. 2015 - Feb. 2021)
   - _Korea Advanced Institute of Science and Technology (KAIST), Daejeon, Korea_
-  - _cum laude_
+  - GPA: 3.76/4.3, _cum laude_
 
 ---
 
