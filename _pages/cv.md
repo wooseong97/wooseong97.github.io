@@ -68,6 +68,13 @@ display_title: false
 
 ---
 
+## <span class="text-info">Honors and Awards</span>
+
+- **[Qualcomm Innovation Fellowship Korea 2025](https://www.qualcomm.com/research/university-relations/innovation-fellowship/2025-south-korea) – Finalist** (2025)
+  - Selected paper: _Interaction-Merged Motion Planning: Effectively Leveraging Diverse Motion Datasets for Robust Planning_ (with Giwon Lee)
+
+---
+
 ## <span class="text-info">Academic Service</span>
 
 - **NeurIPS** (2024, 2025)
