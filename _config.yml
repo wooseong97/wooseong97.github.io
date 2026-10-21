@@ -79,6 +79,8 @@ google_analytics: G-EMCM3MX1TB # your Google Analytics measurement ID (format: G
 cronitor_analytics: # cronitor RUM analytics site ID (format: XXXXXXXXX)
 pirsch_analytics: # your Pirsch analytics site ID (length 32 characters)
 openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)
+statcounter_project: 13361492 # your StatCounter project ID (numeric)
+statcounter_security: a7a1b921 # your StatCounter security code (8 characters)
 
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: KX21hqIZDYKkkpIkp4oi7mR_pw8hpXXhR7HmF7brjM4 # your google-site-verification ID (Google Search Console)
@@ -354,6 +356,7 @@ enable_google_analytics: true # enables google analytics
 enable_cronitor_analytics: false # enables cronitor RUM analytics
 enable_pirsch_analytics: false # enables Pirsch analytics (https://pirsch.io/)
 enable_openpanel_analytics: false # enables Openpanel analytics (https://openpanel.dev/)
+enable_statcounter_analytics: true # enables StatCounter analytics (https://statcounter.com/)
 enable_google_verification: true # enables google site verification
 enable_bing_verification: false # enables bing site verification
 enable_masonry: true # enables automatic project cards arrangement
