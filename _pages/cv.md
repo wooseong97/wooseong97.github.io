@@ -85,6 +85,7 @@ display_title: false
 - **ECCV** (2026)
 - **BMVC** (2026)
 - **AAAI** (2027)
+- **IJCV** (2026)
 - **IEEE TMM** (2026)
 
 ---
