@@ -45,6 +45,13 @@ ninja.data = [{
           window.open("https://www.linkedin.com/in/wooseongjeong", "_blank");
         },
       },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0006-3669-7411", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
