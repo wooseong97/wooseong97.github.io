@@ -49,6 +49,9 @@ Feel free to explore my publications, and reach out if you'd like to collaborate
   <a href="https://www.linkedin.com/in/wooseongjeong" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <i class="fab fa-linkedin"></i> LinkedIn
   </a>
+  <a href="https://orcid.org/0009-0006-3669-7411" target="_blank" rel="noopener noreferrer" title="ORCID">
+    <i class="ai ai-orcid"></i> ORCID
+  </a>
 </div>
 
 ## <span class="text-info">Research Interests</span>
